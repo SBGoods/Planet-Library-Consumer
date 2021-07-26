@@ -1,2 +1,3 @@
 rootProject.name = "Planet-Library-Consumer"
 include ':app'
+include ':Planet Library'
